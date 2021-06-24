@@ -9,7 +9,7 @@ The purpose of this analysis is to utilize different machine learning techniques
 ### Technique 1: Random Oversampling
 <p align="center"
 
-![alttext](https://github.com/sd2wiebe/Credit_Risk_Analysis/blob/main/1.png)
+![alttext]()
 
 </p>
 <li> Balanced Accuracy Score: .62 </li>
