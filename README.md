@@ -68,3 +68,17 @@ The purpose of this analysis is to utilize different machine learning techniques
 <li> Balanced Accuracy Score: .93 </li>
 <li> Precision: .08 </li>
 <li> Recall: .91 </li>
+
+## Summary:
+
+### Balanced accuracy score
+
+
+
+### Precision
+
+All of our models yielded a precision level of less than 0.10. In fact, every model had .01 precison other than the Random Forest and AdaBoost models (.03 and .08 respectively). Thus all of our models yield a very high amount of false positives, keeping our precision level very low.
+
+### Recall
+
+All in all our models had much better recall values than precision, ranging from .57-70 for the first 5 models, and a very good .91 for our last model.
