@@ -9,12 +9,12 @@ The purpose of this analysis is to utilize different machine learning techniques
 ### Technique 1: Random Oversampling
 <p align="center"
 
-![alttext]()
+![alttext](https://github.com/sd2wiebe/Credit_Risk_Analysis/blob/main/11.png)
 
 </p>
-<li> Balanced Accuracy Score: .62 </li>
+<li> Balanced Accuracy Score: .68 </li>
 <li> Precision: .01 </li>
-<li> Recall: .59 </li>
+<li> Recall: .71 </li>
 
 ### Technique 2: SMOTE Oversampling
 <p align="center"
